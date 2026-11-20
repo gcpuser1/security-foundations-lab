@@ -1,0 +1,7 @@
+*.pcap
+*.pcapng
+*.vmdk
+*.qcow2
+*.ova
+.env
+secrets/
